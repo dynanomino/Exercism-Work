@@ -1,8 +1,7 @@
 #include "hexadecimal.h"
 #include "iostream"
-#include <bits/stdc++.h>
 
-// the goal is to not use any library for performing this conversion
+// the goal is to not use any library for performing the mathematical conversion
 namespace hexadecimal {
 
     // this function assumes positive powers only
